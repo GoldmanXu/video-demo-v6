@@ -658,52 +658,6 @@
           ]
         },
         {
-          "id": "bizhi_sample_001_row0004",
-          "rowId": "bizhi_sample_001_row0004",
-          "sample": "bizhi_sample_001",
-          "prompt": "Two teddy bears sit nestled inside a woven basket atop a grassy hill entirely surrounded by blooming flowers and tall dandelions, framed horizontally against a vast open blue sky. The bears' textured plush fur softly ruffles in a gentle, continuous breeze. The environment is alive with complex, multi-layered fluid and particle dynamics: dense clouds of lightweight dandelion seeds detach and lift from the field, swirling in turbulent, physics-driven eddies that sweep across the rippling grass and curl aerodynamically around the edges of the basket. Glowing, reactive pollen motes drift in chaotic, orbital patterns near the ground, while a network of butterflies flutters in layered, curved trajectories, seamlessly weaving through the moving air currents. Overhead, heavy, fluffy white clouds roll steadily and continuously across the sky. Extreme optical depth is established by massive out-of-focus dandelion parachutes and luminous bokeh particles drifting across the immediate foreground, while midground volumetric sun shafts slowly pan over the bending flowerbed. The drifting seeds and floating pollen visibly catch the sunlight as they cross these bright volumetric beams, flaring softly before fading back into the deep background atmospheric scatter. The camera executes an imperceptibly slow, steady forward drift, enhancing the rich optical parallax and ensuring a continuous, loop-friendly dynamic wallpaper experience.",
-          "videos": [
-            {
-              "id": "base",
-              "label": "Base",
-              "src": "videos_bz/bizhi_sample_001/bizhi_sample_001_row0004/base.mp4"
-            },
-            {
-              "id": "hk6_1step-008000",
-              "label": "HK6 1-Step 008000",
-              "src": "videos_bz/bizhi_sample_001/bizhi_sample_001_row0004/hk6_1step-008000.mp4"
-            },
-            {
-              "id": "hk6_2_step-005500",
-              "label": "HK6 2-Step 005500",
-              "src": "videos_bz/bizhi_sample_001/bizhi_sample_001_row0004/hk6_2_step-005500.mp4"
-            }
-          ]
-        },
-        {
-          "id": "bizhi_sample_001_row0002",
-          "rowId": "bizhi_sample_001_row0002",
-          "sample": "bizhi_sample_001",
-          "prompt": "Positioned off-center in a wide horizontal vehicle cabin, a young person with white hair and glowing blue eyes sits resting beside a massive white wolf with striking red eyes, the wolf's heavy head gently overlapping the person's face. Both subjects remain physically anchored, exhibiting soft, looping micro-motion: the person slowly blinks while delicate strands of white hair flutter continuously in a rhythmic window draft, and the wolf鈥檚 thick fur ripples subtly in tandem with its deep, heavy breathing. The interior space is filled with a dense, highly complex multi-layered particle system of sunlit dust motes and tiny airborne fur fibers that swirl in turbulent, sweeping arcs and micro-vortices, carried by the invisible air currents bending around the window frame and the subjects' bodies. Thick volumetric shafts of diffused sunlight stream diagonally through the glass, illuminating the drifting particles into shimmering golden sparks that flash brightly as they cross the light beams and softly dim as they drift into ambient shadow. Soft optical reflections and out-of-focus dust bokeh glide continuously across the foreground windowpane, separating the visual depth layers while strong, shifting rim light wraps around the white hair and fur. A very slow, subtle camera push-in glides through the dense foreground particle scatter, creating rich spatial parallax against the softly moving subjects in this self-sustaining, sun-drenched loop.",
-          "videos": [
-            {
-              "id": "base",
-              "label": "Base",
-              "src": "videos_bz/bizhi_sample_001/bizhi_sample_001_row0002/base.mp4"
-            },
-            {
-              "id": "hk6_1step-008000",
-              "label": "HK6 1-Step 008000",
-              "src": "videos_bz/bizhi_sample_001/bizhi_sample_001_row0002/hk6_1step-008000.mp4"
-            },
-            {
-              "id": "hk6_2_step-005500",
-              "label": "HK6 2-Step 005500",
-              "src": "videos_bz/bizhi_sample_001/bizhi_sample_001_row0002/hk6_2_step-005500.mp4"
-            }
-          ]
-        },
-        {
           "id": "bizhi_sample_001_row0005",
           "rowId": "bizhi_sample_001_row0005",
           "sample": "bizhi_sample_001",
