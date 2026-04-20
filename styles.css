@@ -1,0 +1,213 @@
+:root {
+  --page-bg: #f5efe4;
+  --page-panel: rgba(255, 252, 247, 0.9);
+  --page-line: rgba(61, 45, 31, 0.14);
+  --text-main: #2e241c;
+  --text-soft: #6a5744;
+  --accent: #b24c28;
+  --accent-deep: #7f3115;
+  --shadow: 0 18px 48px rgba(71, 47, 23, 0.12);
+  --radius-lg: 28px;
+  --radius-md: 18px;
+  --radius-sm: 12px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Aptos, "Trebuchet MS", sans-serif;
+  color: var(--text-main);
+  background:
+    radial-gradient(circle at top left, rgba(235, 163, 113, 0.22), transparent 30%),
+    radial-gradient(circle at top right, rgba(135, 172, 142, 0.18), transparent 28%),
+    linear-gradient(180deg, #fbf7f0 0%, var(--page-bg) 100%);
+}
+
+.page-shell {
+  width: min(1400px, calc(100vw - 32px));
+  margin: 0 auto;
+  padding: 32px 0 64px;
+}
+
+.hero {
+  padding: 28px;
+  border: 1px solid var(--page-line);
+  border-radius: var(--radius-lg);
+  background: linear-gradient(145deg, rgba(255, 250, 244, 0.95), rgba(250, 242, 232, 0.92));
+  box-shadow: var(--shadow);
+}
+
+.eyebrow,
+.dataset-kicker,
+.demo-meta {
+  margin: 0;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  color: var(--text-soft);
+}
+
+.hero h1,
+.dataset-header h2 {
+  margin: 10px 0 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  line-height: 1.05;
+}
+
+.hero h1 {
+  font-size: clamp(2.2rem, 4vw, 4.2rem);
+}
+
+.hero-copy,
+.dataset-summary,
+.demo-prompt {
+  margin: 0;
+  color: var(--text-main);
+  line-height: 1.6;
+}
+
+.hero-copy {
+  margin-top: 16px;
+  max-width: 68ch;
+  color: var(--text-soft);
+}
+
+.section-jumps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 22px;
+}
+
+.section-jump,
+.demo-row-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 16px;
+  border-radius: 999px;
+  border: 1px solid rgba(178, 76, 40, 0.22);
+  background: rgba(178, 76, 40, 0.1);
+  color: var(--accent-deep);
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 120ms ease, background 120ms ease, border-color 120ms ease;
+}
+
+.section-jump:hover,
+.demo-row-toggle:hover {
+  transform: translateY(-1px);
+  background: rgba(178, 76, 40, 0.16);
+  border-color: rgba(178, 76, 40, 0.32);
+}
+
+.status-banner {
+  margin: 20px 0 0;
+  padding: 16px 18px;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(167, 41, 31, 0.25);
+  background: rgba(206, 85, 52, 0.1);
+  color: #812312;
+}
+
+.dataset-stack {
+  display: grid;
+  gap: 28px;
+  margin-top: 28px;
+}
+
+.dataset-section {
+  padding: 24px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--page-line);
+  background: var(--page-panel);
+  box-shadow: var(--shadow);
+}
+
+.dataset-header {
+  display: grid;
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.dataset-summary {
+  max-width: 72ch;
+  color: var(--text-soft);
+}
+
+.dataset-list {
+  display: grid;
+  gap: 18px;
+}
+
+.demo-card {
+  padding: 18px;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(61, 45, 31, 0.08);
+  background: rgba(255, 255, 255, 0.66);
+}
+
+.demo-card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.demo-prompt {
+  margin-top: 14px;
+  font-size: 1rem;
+}
+
+.demo-video-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.demo-video-card {
+  margin: 0;
+  padding: 12px;
+  border-radius: var(--radius-sm);
+  background: rgba(240, 235, 227, 0.88);
+  border: 1px solid rgba(61, 45, 31, 0.08);
+}
+
+.demo-video-label {
+  margin-bottom: 10px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--text-soft);
+}
+
+.demo-video {
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+  background: #120f0d;
+}
+
+.demo-row-toggle {
+  cursor: pointer;
+}
+
+@media (max-width: 920px) {
+  .demo-video-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .demo-card-head {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

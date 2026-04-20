@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Video Demo V5</title>
+    <meta
+      name="description"
+      content="Single-page comparison demo for Batch 1-5 and Bizhi prompts with synchronized row playback."
+    >
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="hero">
+        <p class="eyebrow">GoldmanXu / Video Demo</p>
+        <h1>Video Demo V5</h1>
+        <p class="hero-copy">
+          Each prompt is shown above one comparison row. Use the row button to start or pause all
+          three videos together.
+        </p>
+        <nav class="section-jumps" aria-label="Dataset jumps" data-nav-root></nav>
+      </header>
+
+      <p class="status-banner" data-status-root hidden></p>
+      <div class="dataset-stack" data-demo-root></div>
+    </main>
+
+    <script type="module" src="./app.mjs"></script>
+  </body>
+</html>
