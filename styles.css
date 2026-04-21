@@ -31,7 +31,7 @@ body {
 }
 
 .page-shell {
-  width: min(1400px, calc(100vw - 32px));
+  width: min(1920px, calc(100vw - 32px));
   margin: 0 auto;
   padding: 32px 0 64px;
 }
@@ -170,7 +170,7 @@ body {
 
 .demo-video-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 16px;
   margin-top: 16px;
 }
@@ -199,6 +199,12 @@ body {
 
 .demo-row-toggle {
   cursor: pointer;
+}
+
+@media (max-width: 1400px) {
+  .demo-video-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 920px) {
