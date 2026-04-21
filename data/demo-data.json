@@ -582,6 +582,373 @@
           ]
         }
       ]
+    },
+    {
+      "id": "bizhi",
+      "title": "Bizhi",
+      "description": "20 prompt rows from bizhi sample 001, each compared across 3 model checkpoints.",
+      "items": [
+        {
+          "rowId": "bizhi_sample_001_row0000",
+          "prompt": "A young girl stands anchored on the right third of a lush grassy island in the middle of a lake, balanced by expansive open water and distant hills to the left. She exhibits gentle, continuous micro-motion, with her hair and clothing swaying softly in a sustained breeze. The surrounding air is alive with a dense, multi-layered flow of crisp banknotes, riding invisible air currents in intersecting, vortex-like paths. The paper currency twists, tumbles, and flutters in complex orbits, ranging from massive out-of-focus bokeh banknotes drifting slowly through the extreme foreground to a dense midground stream that bends fluidly around the island's geometry. Low, luminous mist curls continuously across the surface of the lake, dragging glowing atmospheric dust motes through shifting volumetric shafts of bright daylight. The gently rippling water shimmers, continuously distorting and reforming the reflected silhouettes of the girl and the swirling money above. Fluffy background clouds slowly roll across the blue sky over the swaying greenery, as a barely imperceptible, slow camera drift enhances the deep optical parallax and continuous, loop-friendly ambient motion of the landscape scene.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0000/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0000/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0000/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0001",
+          "prompt": "A young girl sits calmly on a metallic industrial staircase against a golden sunset backdrop framed by large cylindrical tanks. Her long brown hair sways gently and continuously in the warm evening breeze, accompanied by the subtle, rhythmic rise and fall of her breathing. A highly complex, multi-layered flow of autumn leaves swirls through the scene, caught in turbulent wind eddies that curl naturally around the metallic railings and sweep past her figure. Large, out-of-focus leaves drift across the extreme foreground creating shifting optical bokeh, while dense midground foliage swoops in multi-directional, vortex-like trajectories. Rich volumetric light shafts pierce through the gaps in the industrial structures, illuminating thousands of tiny ambient dust motes that orbit and scatter chaotically within the beams, shimmering brightly before dimming into the shadows. The metallic grid of the stairs continuously catches slowly sliding specular flares, while a faint atmospheric heat ripple softens the distant tanks, all grounded by an almost imperceptible, slow forward camera drift that constantly drives the layered depth parallax.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0001/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0001/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0001/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0002",
+          "prompt": "Positioned off-center in a wide horizontal vehicle cabin, a young person with white hair and glowing blue eyes sits resting beside a massive white wolf with striking red eyes, the wolf's heavy head gently overlapping the person's face. Both subjects remain physically anchored, exhibiting soft, looping micro-motion: the person slowly blinks while delicate strands of white hair flutter continuously in a rhythmic window draft, and the wolf鈥檚 thick fur ripples subtly in tandem with its deep, heavy breathing. The interior space is filled with a dense, highly complex multi-layered particle system of sunlit dust motes and tiny airborne fur fibers that swirl in turbulent, sweeping arcs and micro-vortices, carried by the invisible air currents bending around the window frame and the subjects' bodies. Thick volumetric shafts of diffused sunlight stream diagonally through the glass, illuminating the drifting particles into shimmering golden sparks that flash brightly as they cross the light beams and softly dim as they drift into ambient shadow. Soft optical reflections and out-of-focus dust bokeh glide continuously across the foreground windowpane, separating the visual depth layers while strong, shifting rim light wraps around the white hair and fur. A very slow, subtle camera push-in glides through the dense foreground particle scatter, creating rich spatial parallax against the softly moving subjects in this self-sustaining, sun-drenched loop.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0002/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0002/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0002/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0003",
+          "prompt": "In a wide 16:9 landscape composition, a young orange-haired character sits on a lush forest floor in the right third of the frame, facing a fluffy white creature with blue markings resting in the left third. The character's hair gently sways in continuous, soft breezes, accompanied by subtle rhythmic breathing, while the plush creature's white fur ripples fluidly along its back. A dense, multi-layered system of translucent blue bubbles flows through the scene, driven by complex, non-linear air currents. Large, out-of-focus bokeh bubbles slowly drift across the extreme foreground, while midground bubble streams follow turbulent, curved trajectories, swirling in gentle eddies around the two figures. The lush grass beneath them undulates in continuous rolling waves, reacting to the same ambient wind. In the deep background, soft low-lying mist curls through the open forest, mixed with tiny glowing spores and suspended dust motes that drift in multi-directional scatter. Soft, diffused canopy sunlight illuminates the scene, causing the floating bubbles to continuously catch the light with dynamic iridescent reflections and optical refraction shimmer as they pass through varied lighting zones. A barely perceptible, ultra-slow camera drift forward constantly shifts the spatial parallax across all depth layers, cementing a rich, loop-friendly atmospheric wallpaper motion.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0003/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0003/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0003/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0004",
+          "prompt": "Two teddy bears sit nestled inside a woven basket atop a grassy hill entirely surrounded by blooming flowers and tall dandelions, framed horizontally against a vast open blue sky. The bears' textured plush fur softly ruffles in a gentle, continuous breeze. The environment is alive with complex, multi-layered fluid and particle dynamics: dense clouds of lightweight dandelion seeds detach and lift from the field, swirling in turbulent, physics-driven eddies that sweep across the rippling grass and curl aerodynamically around the edges of the basket. Glowing, reactive pollen motes drift in chaotic, orbital patterns near the ground, while a network of butterflies flutters in layered, curved trajectories, seamlessly weaving through the moving air currents. Overhead, heavy, fluffy white clouds roll steadily and continuously across the sky. Extreme optical depth is established by massive out-of-focus dandelion parachutes and luminous bokeh particles drifting across the immediate foreground, while midground volumetric sun shafts slowly pan over the bending flowerbed. The drifting seeds and floating pollen visibly catch the sunlight as they cross these bright volumetric beams, flaring softly before fading back into the deep background atmospheric scatter. The camera executes an imperceptibly slow, steady forward drift, enhancing the rich optical parallax and ensuring a continuous, loop-friendly dynamic wallpaper experience.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0004/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0004/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0004/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0005",
+          "prompt": "Centered in a wide 16:9 composition, an elderly woman with detailed tattooed arms sits in the foreground of a traditional Japanese wooden house, gently interacting with a clustered group of cats. The woman exhibits subtle, continuous micro-motion, breathing softly as her fingers rhythmically brush against a cat slowly stretching, while the surrounding cats lazily flick their tails and twitch their ears. The room is saturated with complex, multi-layered particle dynamics: dense clouds of golden dust motes circulate through the air in slow, swirling convection currents, forming gentle, twisting eddies that bend and flow naturally around the woman's figure and the wooden architectural pillars. Beyond the open sliding doors, lush green leaves and soft pollen particles drift in a turbulent, curving wind pattern, occasionally spilling into the room to spiral across the floor in overlapping flow fields. Warm, volumetric shafts of sunlight stream continuously into the space, interacting directly with the floating particulate matter to create striking optical depth; the airborne motes flare with radiant, shimmering glare as they cross the light beams, resolving into large, slowly tumbling, out-of-focus golden bokeh in the extreme foreground. Dappled shadows from the continuously swaying background greenery ripple fluidly across the wooden floorboards and the woman's tattooed skin, all captured with a very slow, subtle parallax camera drift that seamlessly enhances the deep, visually rich, and loop-friendly ambient motion.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0005/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0005/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0005/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0006",
+          "prompt": "A young woman with long dark hair adorned with flowers and wearing traditional Japanese floral attire stands anchored on the right, balancing asymmetrically opposite a massive, scaled dragon on the left. Her hair and fabric sleeves flutter with soft, continuous fluidity, while the dragon breathes in a steady rhythm, its glowing red eyes pulsing as faint, twisting ribbons of smoke curl from its jaws. The ample negative space between them is alive with a dense, multi-layered particle system driven by a complex, swirling flow field. Crisp red, orange, and gold autumn leaves tumble in sweeping, non-linear vortex trajectories, mixing with drifting clusters of luminescent golden motes and undulating layers of cool, gray-blue mist. Large, out-of-focus bokeh leaves and soft light orbs drift across the extreme foreground, establishing deep optical parallax, while midground foliage bends and scatters responsively around the contours of the dragon and the woman. Strong, warm orange and gold rim lighting carves the subjects from the blurred background; whenever the flowing leaves and ambient dust cross these bright boundaries, they flare with dynamic volumetric shimmer and sharp glowing reflections before drifting back into the cooler shadows. A very slow, continuous forward camera drift enhances the intricate depth separation of this looping, visually rich atmospheric motion.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0006/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0006/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0006/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0007",
+          "prompt": "A sleek military jet holds a stable, anchored flight position low over a fantastical mountain range of jagged peaks, framed against a bright blue sky and ample open airspace. The jet exhibits continuous high-speed aerodynamic micro-motion, with subtle wing vibrations, gentle suspension-like altitude adjustments, and rhythmic flexing of its metallic flaps. Dense, turbulent vapor vortices continuously peel off the wingtips, spiraling outward into highly complex, expanding corkscrew wake patterns that dissolve into atmospheric mist. The engine exhausts emit intensely pulsing streams of superheated plasma, violently scattering thousands of microscopic glowing embers that get caught in a chaotic, rippling heat-distortion slipstream trailing far behind the aircraft. In the midground and background, massive fluidic cloud banks of vibrant pink and purple continuously roll, billow, and morph, while sweeping wisps of dense mist curl around the sharp mountain ridges in physically driven pressure currents. The immediate foreground is heavily populated by high-speed, elongated bokeh light streaks and luminous airborne dust motes that zip rapidly past the lens, visually bending and accelerating outward as they interact with the jet鈥檚 invisible aerodynamic bow wave. Deep optical complexity is driven by dynamic volumetric sun shafts piercing the shifting cloud layers, casting sweeping rays of light that continuously trigger sharp specular glints and metallic shimmer along the aircraft's fuselage. The sequence features a very subtle, steady parallax tracking motion, locking the main jet precisely in frame while the multi-layered particle streams, fluid clouds, and deep mountain geometry flow continuously backward to simulate an endless, loop-friendly high-altitude flight.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0007/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0007/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0007/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0008",
+          "prompt": "A young man stands slightly off-center to the right in an open landscape, framed by a distant cityscape and a vibrant, arching rainbow stretching across the sky. His hair gently sways in a continuous breeze, and his clothing flutters softly with his subtle, rhythmic breathing. The scene is alive with complex, wind-driven ambient motion: a dense, swirling current of scattered leaves spirals through the midground, caught in turbulent, curving updrafts that weave gracefully around the subject. In the foreground, lush blue flowers sway in organized, rippling waves, releasing micro-particles of glowing pollen that sweep across the frame in a layered, multi-directional flow. Large, out-of-focus bokeh dust motes drift lazily near the lens before accelerating into the ambient wind field. Soft, curling ribbons of mist roll continuously through the distant urban background space. Volumetric light radiating from the warm rainbow pulses softly, catching the swirling leaves and dust particles, causing them to shimmer brightly as they cross the light shafts and dim as they pass into cool shadows. The camera holds a locked-off, highly stable perspective with an almost imperceptible forward drift, anchoring the multi-layered optical depth and looping atmospheric particle physics into a serene, continuous dynamic wallpaper.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0008/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0008/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0008/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0009",
+          "prompt": "Two characters locked in a tender embrace sit centrally in a horizontal 16:9 frame, set against a softly lit background bathed in warm, amber tones. One character features vibrant orange hair, while the other has white hair accented by a single orange streak. As they hold each other, their chests gently rise and fall with synchronized, rhythmic breathing, while their contrasting hair lightly intertwines and sways softly as if caught in a slow, warm updraft. A deeply layered, complex particle system fills the surrounding space, driven by subtle, physically reactive fluid dynamics. Swirling streams of fine, luminous golden dust curl and spiral around their bodies, forming slow, turbulent eddies that bend gracefully around their intertwined silhouettes. In the foreground, large, out-of-focus golden bokeh orbs drift in slow, sweeping orbital arcs, while the background features softly rolling, warm-toned mist that condenses and disperses in continuous loops. The spatial depth is deeply amplified by soft volumetric light shafts radiating from behind the characters, catching the drifting dust motes and causing them to shimmer brightly and leave faint luminous trails as they cross the glowing beams. A very slow, subtle push-in camera movement enhances the rich optical parallax between the foreground light fragments, the gently swaying characters, and the swirling atmospheric haze in the background.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0009/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0009/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0009/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0010",
+          "prompt": "A gigantic whale glides in extreme slow motion through a pastel-hued sky above distant rolling mountains, its massive fins undulating rhythmically while its tail slowly sweeps through the air. In the immediate foreground, two small human figures stand anchored on a grassy ridge, observing the sky as their clothing flutters softly in a continuous breeze beside gently swaying tree branches. The air is alive with highly complex, multi-layered particle dynamics: dense streams of luminous butterflies swarm in fluid, turbulent eddies, forming swirling, orbiting vortexes that curve and bend reactively around the whale鈥檚 massive moving silhouette. Translucent mist and glowing atmospheric dust roll in continuous waves, parting dynamically into a trailing liquid-like wake as the majestic creature pushes through the clouds. Large out-of-focus, bokeh-like glowing fragments and foreground butterflies drift slowly across the lens, while massive midground swarms cross through intersecting shafts of volumetric light, creating a deep, shimmering optical complexity. Radiating crepuscular rays scatter softly through the rolling mist, illuminating the swirling winged particles as they continuously cycle through the scene, accompanied by a nearly imperceptible, slow camera push-in that constantly shifts the deep parallax of the layered landscape.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0010/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0010/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0010/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0011",
+          "prompt": "A young girl with vibrant blue hair and large eyes floats within a balanced 16:9 cosmic landscape, framed by a deep starfield, soft glowing nebular clouds, and colorful geometric shapes. Her blue hair sways weightlessly in a gentle cosmic current, accompanied by soft, rhythmic breathing and slow blinks. Surrounding her, a highly complex, multi-layered particle system is in constant motion; translucent colorful prisms and floating geometry orbit her in intersecting, curved trajectories, creating swirling wake-currents of luminous stardust. Dense, fluid-like streams of glowing space mist roll continuously in the background, churning into slow, turbulent eddies that react to the orbiting shapes. The optical depth is rich, featuring large, out-of-focus iridescent bokeh particles drifting across the extreme foreground, while midground energy motes swirl tightly around the girl's silhouette. These motes catch the soft rim lighting, shimmering intensely as they pass through volumetric shafts radiating from the nebular clouds. The background stars twinkle with layered parallax drift as the floating geometry continuously refracts ambient light, creating pulsing color shifts in a seamlessly looping, visually active environment, supported by a barely perceptible, slow camera push-in.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0011/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0011/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0011/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0012",
+          "prompt": "A majestic, glowing blue fish slowly breaches a rippling water surface, anchored by a calm girl standing at the water's edge and a traditional Japanese building framed against a warm dusk sky. The colossal fish gently undulates its translucent fins, while the girl exhibits subtle breathing, her hair and garments softly fluttering in a localized breeze. Complex fluid dynamics fill the environment as heavy mist curls across the water, forming swirling turbulent eddies that physically react to the giant fish's slow movement. Cascading water droplets detach from the creature's scales, defying gravity to float upward into chaotic, orbital currents, stretching into shimmering luminescent streaks. Smaller glowing fish swim in continuous spiraling paths around the central leviathan, trailing ribbons of fine bioluminescent bubbles that disperse into the fog. The scene's optical depth is highly layered: massive, out-of-focus bioluminescent bokeh particles drift smoothly through the extreme foreground, while midground warm amber dust motes blow outward from the distant architecture, colliding with the cool blue atmospheric scatter. Deep volumetric lighting interacts intricately with the particle flow, as the fish's intense blue radiance projects undulating, liquid caustic reflections across the girl's silhouette and the wooden structure, contrasting against the fading warm dusk backlight, all captured with a very slow, continuous push-in camera drift to emphasize the profound spatial parallax.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0012/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0012/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0012/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0013",
+          "prompt": "A group of characters stands anchored on a grassy hill, flanked by a massive, gently rustling tree on the right and a mechanical structure on the left beneath a twilight sky filled with shifting constellations. The characters exhibit subtle breathing, with their hair and garments softly fluttering in a continuous, multi-directional breeze. The mechanical structure slowly vents faint wisps of steam alongside deeply glowing, rhythmic internal lights. Wind sweeps across the hill in turbulent, rolling waves, causing the tall grass to ripple fluidly. A complex, multi-layered particle system drives the scene: dense clusters of bioluminescent motes and tiny, glowing embers rise from the ground, caught in swirling updrafts that weave through the midground. Detached leaves spiral from the tree canopy in sweeping, curved trajectories, creating orbital flow fields around the group. Wisps of ground-level mist continuously curl and roll over the hill's edge, interacting physically with the swaying grass. Extreme depth is established by large, out-of-focus bokeh particles drifting heavily in the foreground, while the background atmosphere features soft starlight scattering through upper-level haze. Dynamic rim light catches the edge of every falling leaf and drifting mote as they cross faint volumetric beams, while the stars above slowly twinkle and drift in a seamless, loop-friendly ambient flow, enhanced by a barely perceptible, slow camera push-in.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0013/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0013/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0013/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0014",
+          "prompt": "A young girl with short red hair sits on a lakeside bench beside an orange cat, positioned in a 16:9 landscape with lush greenery bordering the water and a distant cityscape under a bright blue sky. The girl's hair softly flutters in a gentle breeze as she breathes rhythmically, while the cat rests with its tail slowly curling and ears faintly twitching. Complex atmospheric motion fills the space, driven by turbulent, multi-directional wind currents that carry luminous dust motes, drifting dandelion seeds, and tiny leaf fragments in sweeping, vortex-like trajectories around the bench. The lake surface continuously rolls with shimmering, layered micro-ripples that distort the reflections of massive, slow-moving fluffy clouds. Large, out-of-focus golden bokeh particles drift through the extreme foreground, creating striking depth parallax against the dense midground flow. Volumetric sunbeams filter through the surrounding foliage, causing the swirling airborne particles to flare brightly as they cross the light shafts, while dynamic rim light pulses softly along the edges of the girl and the cat. A nearly imperceptible, slow camera push-in glides through the layered optical environment, sustaining a rich, continuous, loop-friendly ambient motion field.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0014/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0014/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0014/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0015",
+          "prompt": "A young woman stands anchored on a train platform against a vibrant sunset sky, framed by distant mountains and a red train steadily passing along the tracks behind her. Her hair and clothing flutter in continuous, rolling waves, reacting to the aerodynamic slipstream of the moving train. The train's wake drives a complex, turbulent fluid flow of golden platform dust, stray leaves, and glowing airborne motes that spiral in multi-directional eddies around her silhouette. Large, out-of-focus bokeh particles drift heavily through the immediate foreground, while dense midground dust sweeps across the platform, catching the warm, volumetric rays of the setting sun to create a shimmering, reactive atmosphere. High-altitude clouds slowly drift and deform across the horizon, as the train's passing windows cast a rhythmic, continuous flicker of orange optical reflections over the layered environment. The camera holds a steady, wide perspective with an ultra-slow, subtle forward push, amplifying the deep spatial parallax of the swirling foreground particles, the gliding midground train, and the distant mountain backdrop.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0015/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0015/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0015/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0016",
+          "prompt": "Two characters lounge together on a wide, cozy bed layered with soft cushions and plush toys, centered in a stable 16:9 composition. One holds a gently pulsing, glowing blue game controller, while the other rests a plush toy on their lap and softly grips a second controller, framed against a background of heart-shaped decorations and framed pictures bathed in ambient pastel blues, purples, and pinks. The characters exhibit gentle, rhythmic breathing and subtle shifts in their relaxed postures, with soft hair swaying lightly and thumbs making tiny, continuous micro-movements on the analog sticks. A complex, multi-layered atmospheric flow fills the bedroom, driven by luminous pink and purple dust motes that drift in swirling, turbulent eddies, curling gracefully over the blankets and pooling in the fabric creases. Tiny, glowing light fragments orbit slowly around the active blue controller, rippling outward in soft concentric waves with every subtle thumb movement. Translucent, warm ambient mist drifts upward from the bed in multi-directional currents, wrapping and bending dynamically around the characters' silhouettes. Warm, diffused volumetric light shafts catch the drifting particulate matter, transforming foreground motes into large, out-of-focus shimmering bokeh that slowly drifts across the lens. The blue controller's glow softly fluctuates, casting dynamic, reactive reflections across their faces, clothing, and the surrounding plush toys, while the camera executes a barely perceptible, ultra-slow push-in to emphasize the deep optical parallax between the drifting foreground particles, the cozy midground subjects, and the softly shadowed background wall.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0016/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0016/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0016/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0017",
+          "prompt": "A young woman sits on a plush couch in a warm living room, reading a book near a large window that frames an outdoor snowy landscape, surrounded by potted plants, a windowsill mug, and a populated bookshelf. She breathes rhythmically, her eyes tracking the text with subtle eyelid flutters, while a gentle, continuous shifting of her hair and layered clothing adds natural lifelikeness. Outside the window pane, a complex, multi-layered system of snow swirls in continuous, wind-driven eddies, combining large flakes sweeping dynamically past the glass with dense, turbulent micro-flurries in the deep background. Inside, thick steam continuously curls from the windowsill mug, forming intricate, twisting ribbons of vapor that interact with subtle indoor air currents and disperse upward. The warm interior illumination cuts through the room in soft volumetric shafts, revealing a rich, dense flow of golden dust motes drifting in slow, orbital vortexes around the couch; these particles catch the light, shimmering and pulsing brightly as they cross the beams. Deep optical separation is maintained between large, out-of-focus floating indoor particles in the immediate foreground, the sharp midground subject, and the active atmospheric snowscape. A very slow, continuous forward camera drift introduces gentle spatial parallax across the bookshelf items, the faintly swaying plant leaves, and the sweeping exterior snowstorm, sustaining a highly textured, loop-friendly ambient wallpaper.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0017/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0017/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0017/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0018",
+          "prompt": "A female astronaut in a detailed orange and blue spacesuit stands anchored on a metallic futuristic platform against a massive, brilliantly colored moon filling the horizontal sky. The astronaut breathes slowly, her posture subtly shifting, while attached tethers and loose spacesuit straps drift weightlessly in a gentle, rhythmic sway. A complex system of glowing stardust and cosmic mist flows continuously through the scene, swirling in slow, turbulent eddies around the platform structure and the astronaut's boots. Midground clouds of luminous atmospheric gas roll and curl in non-linear fluid patterns, while repeating shooting stars carve brilliant, slowly dissipating streaks across the deep backdrop. Small, reactive fragments of crystalline space dust orbit in curved, vortex-like trajectories around the subject, interacting with unseen atmospheric currents. Large, out-of-focus glowing bokeh particles drift close to the lens in the extreme foreground, creating intense depth parallax against the dense background scattering. The giant moon casts volumetric shafts of light that catch the drifting dust, causing the multi-directional particles to shimmer and flare brightly as they cross the ambient beams, while the astronaut's polished helmet visor continuously reflects the shifting, looping cosmic flow. The camera executes a very slow, steady push-in, sliding seamlessly through the layered fields of orbiting dust and softly moving clouds to emphasize the deep spatial environment.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0018/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0018/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0018/hk6_8000step.mp4"
+            }
+          ]
+        },
+        {
+          "rowId": "bizhi_sample_001_row0019",
+          "prompt": "A dynamic landscape scene set in an outdoor park blending traditional and modern architecture, anchored by a resting bicycle gleaming with shifting optical reflections alongside a dog breathing softly with gentle ear twitches in the foreground. In the midground, a group of characters interact through subtle, continuous micro-motions, displaying swaying hair, fluttering fabric, and gentle posture shifts that do not disrupt the overall composition. The environment is entirely animated by a highly complex, physics-driven particle system composed of thousands of falling leaves and softly glowing ethereal dust. Wind currents drive the foliage in turbulent, non-linear trajectories, creating swirling vortexes, atmospheric eddies, and multi-directional flow fields that wrap around the characters and architectural structures. Deep optical complexity is established by massive, out-of-focus leaves drifting intimately close to the foreground lens, while dense midground particle clusters twist and tumble in the breeze. A bright, luminous glow from the background emits soft, volumetric crepuscular rays that pierce through the park; the floating dust motes and spinning leaves visibly ignite with radiant shimmer as they intersect the light shafts, subsequently dimming as they drift into the architectural shadows. A very slow, continuous forward camera drift enhances the deep spatial parallax between the foreground elements, the midground subjects, and the rich background scattering, maintaining a compositionally stable, visually dense, and seamlessly loop-friendly animated wallpaper atmosphere.",
+          "videos": [
+            {
+              "label": "Base",
+              "src": "videos_bz/bizhi_sample_001_row0019/base.mp4"
+            },
+            {
+              "label": "HK6 1-Step 008000",
+              "src": "videos_bz/bizhi_sample_001_row0019/hk6_1step-008000.mp4"
+            },
+            {
+              "label": "8000step",
+              "src": "videos_bz/bizhi_sample_001_row0019/hk6_8000step.mp4"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
